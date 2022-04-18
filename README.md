@@ -35,7 +35,7 @@ I'm a full stack developer...
 
 
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
-[![YouTube](https://img.shields.io/badge/youtube-1DA1F2?style=for-the-badge&logo=youtube&logoColor=white)](bit.ly/LgendSpam)
+[![YouTube](https://img.shields.io/badge/youtube-1DA1F2?style=for-the-badge&logo=youtube&logoColor=white)](https://m.youtube.com/channel/UCVme0WEkXsjIUJXMQPx_iHA?sub_confirmation=1)
 
 
 
