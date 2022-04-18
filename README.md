@@ -51,8 +51,8 @@ I'm a full stack developer...
 - BASH script,
 
 
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
-
+<!---![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+--->
 
 <!---
 Amrit-Giri/Amrit-Giri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
