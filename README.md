@@ -34,7 +34,7 @@ I'm a full stack developer...
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 
 
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AmritGi56713133)
 [![YouTube](https://img.shields.io/badge/youtube-1DA1F2?style=for-the-badge&logo=youtube&logoColor=white)](https://m.youtube.com/channel/UCVme0WEkXsjIUJXMQPx_iHA?sub_confirmation=1)
 
 
@@ -48,13 +48,17 @@ I'm a full stack developer...
 
 ## 🛠 Skills
 
-- Javascript, 
-- HTML, 
-- CSS,
-- PHP,
-- Django,
-- Python,
-- BASH script,
+- Python
+- Django
+- Linux
+- BASH Script
+- HTML
+- CSS
+- JavaScript
+- PHP
+- Termux
+- C Programming
+- Java
 
 
 <!---![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
