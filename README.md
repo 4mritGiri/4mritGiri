@@ -1,17 +1,8 @@
 
 
 
-# Hi, I'm AmritGiri! 👋
-
-👩‍💻 I'm currently working on Project...   &emsp; &emsp; &emsp; &emsp; &emsp;🧠 I'm currently learning BCA ....
-
-👯‍♀️ I'm looking to collaborate on...  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;🤔 I'm looking for help with...
-
-👀 I’m interested in learn new technologies... &emsp; &emsp; 💬 Ask me about...
-
-📫 How to reach me... &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;😄 Pronouns...
-
-⚡️ Fun fact...
+# Hi there, I'm AmritGiri !! 👋
+![Amrit's GitHub stats](https://github-readme-stats.vercel.app/api?username=amrit-giri&show_icons=true&theme=radical)
 
 ## 🚀 About Me
  
@@ -31,10 +22,9 @@ I'm a full stack developer, Student and Script Kiddies...
 
 ## 🛠 Skills
 
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <br><b>Python<b>
 
-- <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <br><b>Python<b>
-
-- <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://iconape.com/wp-content/files/ha/55171/svg/django.svg" alt="django" width="40" height="40"/> </a><br><b>Django<b>
+- <a align="left" width="47%" href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://iconape.com/wp-content/files/ha/55171/svg/django.svg" alt="django" width="40" height="40"/> </a><br><b>Django<b>
 
 - <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <br><b>Linux<b>
 
