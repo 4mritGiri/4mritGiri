@@ -3,29 +3,18 @@
 
 # Hi, I'm AmritGiri! 👋
 
-👩‍💻 I'm currently working on Project...
+👩‍💻 I'm currently working on Project...   &emsp; &emsp; &emsp; &emsp; &emsp;🧠 I'm currently learning BCA ....
 
-🧠 I'm currently learning BCA ....
+👯‍♀️ I'm looking to collaborate on...  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;🤔 I'm looking for help with...
 
-👯‍♀️ I'm looking to collaborate on...
+👀 I’m interested in learn new technologies... &emsp; &emsp; 💬 Ask me about...
 
-🤔 I'm looking for help with...
-
-
-
-
-- 👀 I’m interested in learn new technologies...
-
-💬 Ask me about...
-
-📫 How to reach me...
-
-😄 Pronouns...
+📫 How to reach me... &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;😄 Pronouns...
 
 ⚡️ Fun fact...
 
 ## 🚀 About Me
-
+ 
 I'm a full stack developer, Student and Script Kiddies...
 
 ## 🔗 Links
@@ -40,17 +29,12 @@ I'm a full stack developer, Student and Script Kiddies...
 
 
 
-
-
-
-
-
 ## 🛠 Skills
-<p align="left"> 
+
 
 - <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <br><b>Python<b>
 
-- <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src=" https://iconape.com/wp-content/files/ha/55171/svg/django.svg" alt="django" width="40" height="40"/> </a><br><b>Django<b>
+- <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://iconape.com/wp-content/files/ha/55171/svg/django.svg" alt="django" width="40" height="40"/> </a><br><b>Django<b>
 
 - <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <br><b>Linux<b>
 
@@ -80,7 +64,7 @@ I'm a full stack developer, Student and Script Kiddies...
 
 - <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a><br><b>Sqlite<b> 
 
-</p>
+
 
 
 
