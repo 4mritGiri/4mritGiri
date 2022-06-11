@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
  
-I'm a full stack developer, Student and Script Kiddies...
+I'm a full stack developer, Student and ...
 
 ## 🔗 Links
 
