@@ -85,7 +85,7 @@ I'm a full stack developer, Student and ...
 [![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://about.gitlab.com/)
 
 
-
+<!--
 # Social
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](amritgiri02595@gmail.com)
@@ -98,9 +98,7 @@ I'm a full stack developer, Student and ...
 [![Viber](https://img.shields.io/badge/Viber-8B66A9?style=for-the-badge&logo=viber&logoColor=white)](+9779862413503)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]()
 
-
-
-
+-->
 
 
 
