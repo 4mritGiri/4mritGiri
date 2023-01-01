@@ -1,7 +1,7 @@
 
 # Hi there, I'm AmritGiri !! 👋
-![Amrit's GitHub stats](https://github-readme-stats.vercel.app/api?username=amrit-giri&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amrit-giri&langs_count=8)
+![Amrit's GitHub stats](https://github-readme-stats.vercel.app/api?username=4mritGiri&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4mritGiri&langs_count=8)
 
 ## 🚀 About Me
  
@@ -10,10 +10,10 @@ I'm a full stack developer, Student and ...
 ## 🔗 Links
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-1dcf57?style=for-the-badge&logo=ko-fi&logoColor=white)](https://amritgiri01.com.np/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amrit-giri-6a2500198/)
-<!-- [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AmritGi56713133) -->
-[![YouTube](https://img.shields.io/badge/youtube-ffffff?style=for-the-badge&logo=youtube&logoColor=red)](https://m.youtube.com/channel/UCVme0WEkXsjIUJXMQPx_iHA?sub_confirmation=1)
-[![GitHub](https://img.shields.io/badge/github-ffffff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Amrit-Giri/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/4mritGiri/)
+<!-- [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/4mritGiri) -->
+[![YouTube](https://img.shields.io/badge/youtube-ffffff?style=for-the-badge&logo=youtube&logoColor=red)](https://m.youtube.com/legendspam?sub_confirmation=1)
+[![GitHub](https://img.shields.io/badge/github-ffffff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/4mritGiri/)
 
 
 
@@ -89,14 +89,14 @@ I'm a full stack developer, Student and ...
 # Social
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](amritgiri02595@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/mwlite/in/legend-spam-6a2500198)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/mwlite/in/4mritGiri)
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](amritgiri02595@outlook.com)
-[![YouTube](https://img.shields.io/badge/<handle>-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://m.youtube.com/channel/UCVme0WEkXsjIUJXMQPx_iHA?sub_conformation=1)
+[![YouTube](https://img.shields.io/badge/<handle>-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://m.youtube.com/LegendSpam?sub_conformation=1)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)]()
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)]()
-[![Twitter](https://img.shields.io/badge/<handle>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](@AmritGi56713133)
+[![Twitter](https://img.shields.io/badge/<handle>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](@4mritGiri)
 [![Viber](https://img.shields.io/badge/Viber-8B66A9?style=for-the-badge&logo=viber&logoColor=white)](+9779862413503)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](+9779862413503)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]()
 
 
 
