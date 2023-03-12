@@ -1,7 +1,19 @@
 
 # Hi there, I'm AmritGiri !! 👋
-![Amrit's GitHub stats](https://github-readme-stats.vercel.app/api?username=4mritGiri&show_icons=true&theme=radical)
+
+<center>
+  <table>
+  <tr>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=4mritGiri&count_private=true&theme=gotham&show_icons=true" /></td>
+      <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4mritGiri&layout=compact&theme=gotham&langs_count=10" /></td>
+  </tr>   
+  </table>
+</center>
+
+<br />
+<!--![Amrit's GitHub stats](https://github-readme-stats.vercel.app/api?username=4mritGiri&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4mritGiri&langs_count=8)
+-->
 
 ## 🚀 About Me
  
