@@ -1,36 +1,51 @@
 
-# Hi there, I'm AmritGiri !! 👋
+# Hi there 👋, I'm Amrit Giri :)
 
-<center>
-  <table>
+## 🌱 I'm a ......
+
+- 👀 
+- 😀 I'd love to collaborate in projects that suit my interests.
+- ⚡ Fun fact: 
+- 📫 How to reach me: [Amrit Giri](mailto:legendspam025@gmail.com)
+
+## 📊 My Stats:
+
+<details>
+  <summary>@mr!t's GitHub Stats</summary>
+<table style="width:100%">
   <tr>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=4mritGiri&count_private=true&theme=gotham&show_icons=true" /></td>
-      <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4mritGiri&layout=compact&theme=gotham&langs_count=10" /></td>
-  </tr>   
-  </table>
-</center>
+    <th><img src="https://github-readme-stats.vercel.app/api?username=4mritGiri&show_icons=true&theme=chartreuse-dark&count_private=true" /></th>
+    <th><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4mritGiri&size_weight=0.5&count_weight=0.5&layout=compact&theme=chartreuse-dark&langs_count=10" /></th>
+  </tr>
+</table>
+  </details>
 
-<br />
-<!--![Amrit's GitHub stats](https://github-readme-stats.vercel.app/api?username=4mritGiri&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4mritGiri&langs_count=8)
--->
+
+## 📈 My GitHub Activity:
+
+<details>
+  <summary>4mrit's GitHub Activity</summary>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="@mr!tG!r!'s Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=4mritGiri&theme=chartreuse-dark&custom_title=4mrit's%20contribution%20graph&hide_border=true" /></a>
+</details>
 
 ## 🚀 About Me
  
 I'm a full stack developer, Student and ...
 
 ## 🔗 Links
-
+<details>
+  
 [![portfolio](https://img.shields.io/badge/my_portfolio-1dcf57?style=for-the-badge&logo=ko-fi&logoColor=white)](https://amritgiri01.com.np/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/4mritGiri/)
 <!-- [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/4mritGiri) -->
 [![YouTube](https://img.shields.io/badge/youtube-ffffff?style=for-the-badge&logo=youtube&logoColor=red)](https://m.youtube.com/legendspam?sub_confirmation=1)
 [![GitHub](https://img.shields.io/badge/github-ffffff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/4mritGiri/)
-
+</details>
 
 
 ## 🛠 Skills
-
+<details>
+  
 #### 📋 Languages
 
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
@@ -112,5 +127,5 @@ I'm a full stack developer, Student and ...
 
 -->
 
-
+</details>
 
