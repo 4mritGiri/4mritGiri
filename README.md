@@ -25,7 +25,7 @@
 
 <details>
   <summary>4mrit's GitHub Activity</summary>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="@mr!tG!r!'s Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=4mritGiri&theme=chartreuse-dark&custom_title=4mrit's%20contribution%20graph&hide_border=true" /></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="@mr!tG!r!'s Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=4mritGiri&theme=react-dark&custom_title=4mrit's%20contribution%20graph&hide_border=true" /></a>
 </details>
 
 ## 🚀 About Me
