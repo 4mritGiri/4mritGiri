@@ -5,6 +5,7 @@
 
 - 👀 
 - 😀 I'd love to collaborate in projects that suit my interests.
+- <img src="https://komarev.com/ghpvc/?username=4mritGiri&label=Profile%20views&color=0e75b6&style=flat" alt="4mritGiri" />
 - ⚡ Fun fact: 
 - 📫 How to reach me: [Amrit Giri](mailto:legendspam025@gmail.com)
 
