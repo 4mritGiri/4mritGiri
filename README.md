@@ -1,9 +1,10 @@
 
-# Hi there 👋, I'm Amrit Giri :)
+# Hi there 👋, I'm Amrit Giri :) 
 
 # 💫 About Me:
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
+<img src="https://komarev.com/ghpvc/?username=4mritGiri&label=Profile%20views&color=0e75b6&style=flat" alt="4mritGiri" />
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/4mritGiri) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/4mritGiri) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@legendspam) 
