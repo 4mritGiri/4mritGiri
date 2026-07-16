@@ -2,7 +2,7 @@
 # Hi there 👋, I'm Amrit Giri :) 
 
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on ...<br>👯 I’m looking to collaborate on ...<br>🤝 I’m looking for help with ...<br>🌱 I’m currently learning ...<br>💬 Ask me about ∞<br>
 
 <img src="https://komarev.com/ghpvc/?username=4mritGiri&label=Profile%20views&color=0e75b6&style=flat" alt="4mritGiri" />
 
